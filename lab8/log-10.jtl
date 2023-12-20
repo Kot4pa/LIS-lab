@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703070637971,2046,HTTP Request,200,OK,Users 1-1,text,true,,720663,248,2,2,https://bouquet-delivery.ru/,121,0,68
+1703070637971,126,HTTP Request-0,301,Moved Permanently,Users 1-1,text,true,,372,124,2,2,http://bouquet-delivery.ru/,121,0,68
+1703070638099,1918,HTTP Request-1,200,OK,Users 1-1,text,true,,720291,124,2,2,https://bouquet-delivery.ru/,1679,0,464
+1703070639883,1535,HTTP Request,200,OK,Users 1-2,text,true,,720663,248,1,1,https://bouquet-delivery.ru/,101,0,47
+1703070639883,101,HTTP Request-0,301,Moved Permanently,Users 1-2,text,true,,372,124,1,1,http://bouquet-delivery.ru/,101,0,47
+1703070639984,1434,HTTP Request-1,200,OK,Users 1-2,text,true,,720291,124,1,1,https://bouquet-delivery.ru/,1205,0,108
+1703070641882,1537,HTTP Request,200,OK,Users 1-3,text,true,,720663,248,1,1,https://bouquet-delivery.ru/,95,0,46
+1703070641882,95,HTTP Request-0,301,Moved Permanently,Users 1-3,text,true,,372,124,1,1,http://bouquet-delivery.ru/,95,0,46
+1703070641978,1441,HTTP Request-1,200,OK,Users 1-3,text,true,,720291,124,1,1,https://bouquet-delivery.ru/,1196,0,100
+1703070643883,1517,HTTP Request,200,OK,Users 1-4,text,true,,720663,248,1,1,https://bouquet-delivery.ru/,91,0,45
+1703070643883,91,HTTP Request-0,301,Moved Permanently,Users 1-4,text,true,,372,124,1,1,http://bouquet-delivery.ru/,91,0,45
+1703070643975,1425,HTTP Request-1,200,OK,Users 1-4,text,true,,720291,124,1,1,https://bouquet-delivery.ru/,1186,0,99
+1703070645883,1494,HTTP Request,200,OK,Users 1-5,text,true,,720663,248,1,1,https://bouquet-delivery.ru/,91,0,45
+1703070645883,92,HTTP Request-0,301,Moved Permanently,Users 1-5,text,true,,372,124,1,1,http://bouquet-delivery.ru/,91,0,45
+1703070645975,1402,HTTP Request-1,200,OK,Users 1-5,text,true,,720291,124,1,1,https://bouquet-delivery.ru/,1162,0,99
+1703070647883,1789,HTTP Request,200,OK,Users 1-6,text,true,,720663,248,1,1,https://bouquet-delivery.ru/,93,0,47
+1703070647883,93,HTTP Request-0,301,Moved Permanently,Users 1-6,text,true,,372,124,1,1,http://bouquet-delivery.ru/,93,0,47
+1703070647977,1695,HTTP Request-1,200,OK,Users 1-6,text,true,,720291,124,1,1,https://bouquet-delivery.ru/,1457,0,98
+1703070649882,1592,HTTP Request,200,OK,Users 1-7,text,true,,720663,248,1,1,https://bouquet-delivery.ru/,91,0,46
+1703070649882,91,HTTP Request-0,301,Moved Permanently,Users 1-7,text,true,,372,124,1,1,http://bouquet-delivery.ru/,91,0,46
+1703070649974,1500,HTTP Request-1,200,OK,Users 1-7,text,true,,720291,124,1,1,https://bouquet-delivery.ru/,1261,0,99
+1703070651883,1506,HTTP Request,200,OK,Users 1-8,text,true,,720663,248,1,1,https://bouquet-delivery.ru/,93,0,47
+1703070651883,93,HTTP Request-0,301,Moved Permanently,Users 1-8,text,true,,372,124,1,1,http://bouquet-delivery.ru/,93,0,47
+1703070651977,1412,HTTP Request-1,200,OK,Users 1-8,text,true,,720291,124,1,1,https://bouquet-delivery.ru/,1179,0,96
+1703070653881,1579,HTTP Request,200,OK,Users 1-9,text,true,,720663,248,1,1,https://bouquet-delivery.ru/,93,0,47
+1703070653881,93,HTTP Request-0,301,Moved Permanently,Users 1-9,text,true,,372,124,1,1,http://bouquet-delivery.ru/,93,0,47
+1703070653975,1485,HTTP Request-1,200,OK,Users 1-9,text,true,,720291,124,1,1,https://bouquet-delivery.ru/,1244,0,96
+1703070655882,1467,HTTP Request,200,OK,Users 1-10,text,true,,720663,248,1,1,https://bouquet-delivery.ru/,93,0,47
+1703070655882,93,HTTP Request-0,301,Moved Permanently,Users 1-10,text,true,,372,124,1,1,http://bouquet-delivery.ru/,93,0,47
+1703070655976,1373,HTTP Request-1,200,OK,Users 1-10,text,true,,720291,124,1,1,https://bouquet-delivery.ru/,1129,0,98
